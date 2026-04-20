@@ -290,6 +290,7 @@ SIGNUPS_ALLOWED: "false"
 * No public exposure required
 * Tailscale provides certifficates and direct peer-to-peer communication.
 * No need for port forwarding, firewall configurations or a public domain.
+* Encryption provided through VPN (Tailscale is Wireguard based) and TLS.
 
 ### TLS
 
