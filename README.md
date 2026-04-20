@@ -166,7 +166,7 @@ Tailscale was installed on both:
 * The VM (server)
 * The host machine (client)
 
-This creates a private network between devices. Follow instruktions on https://tailscale.com/.
+This creates a private network between devices. Follow instructions on https://tailscale.com/.
 
 ### Verification
 
