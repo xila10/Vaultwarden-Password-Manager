@@ -215,7 +215,7 @@ Important:
 
 **Verification:**
 
-- checking traffic on ports
+- Check active listening ports and associated services:
 
 ```
 ss -tulnp | grep 443
